@@ -12,5 +12,5 @@ dependencies:
   - partd
   - bokeh
   - dask
-  - requests
+  - urllib
   - aiohttp
